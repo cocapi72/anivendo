@@ -1,4 +1,4 @@
-Create HTML5-based animated banner that wil run on any device.
+Create HTML5-based animated banner that will run on any device.
 anivendo is frequishly easy to learn and use.
 
 · no complicated keyframe based timeline!
