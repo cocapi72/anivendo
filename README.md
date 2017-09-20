@@ -1,7 +1,7 @@
 Create HTML5-based animated banner that will run on any device.
-anivendo is frequishly easy to learn and use.
+anivendo is <b>frequishly easy</b> to learn and use.
 
-· no complicated keyframe based timeline!
+<b>No complicated keyframe based timeline!</b>
 
 animates your banner assets up to 10 times faster than using
 - Google Webdesigner,
@@ -10,5 +10,5 @@ animates your banner assets up to 10 times faster than using
 - etc.
 
 anivendo is currently in alpha Version and we are searching for alpha Tester.
-<b>Are you interested?</b>
+<br><b>Are you interested?</b><br>
 Please visit <a href="https://www.anivendo.com">anivendo Website</a>
