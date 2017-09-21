@@ -11,4 +11,4 @@ animates your banner assets up to 10 times faster than using
 
 anivendo is currently in alpha Version and we are searching for alpha Tester.
 <br><b>Are you interested?</b><br>
-Please visit <a href="https://www.anivendo.com">anivendo Website</a>
+<h1>Please visit <a href="https://www.anivendo.com">anivendo Website</a></h1>
